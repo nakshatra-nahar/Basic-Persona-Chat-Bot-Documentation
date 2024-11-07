@@ -42,3 +42,7 @@ This document outlines the architecture and workflow for creating a basic person
 - **Advanced Persona Management**: Implement features to dynamically switch or customize personas based on user preferences.
 - **Optimized Chat History Handling**: Integrate solutions like Gemini to efficiently manage and retrieve past conversations.
 - **Database Scalability**: Consider scalable database solutions as the chat history grows, ensuring performance is maintained.
+
+
+![image](https://github.com/user-attachments/assets/e8ba4d04-5c11-4707-86d0-aff87d2e6dac)
+
